@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 class Main {
 
-    
     public static void main(String[] args) {
       Scanner teclado = new Scanner (System.in);
       int n1 = teclado.nextInt();
@@ -22,10 +21,7 @@ class Main {
       }else{
           System.out.println(n4);
       }
-          
-      
-          
-      
+
     }
     
 }
